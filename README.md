@@ -15,6 +15,3 @@ This is a simple and responsive HTML form designed for student registration. It 
 
 - HTML5
 - CSS3
-
-## 📁 Project Structure
-
