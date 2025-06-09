@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap');
+
+* {
+    font-family: "Merriweather", serif;
+    margin: 0;
+    padding: 0;
+}
+
+.Container {
+    background-color: rgb(121, 137, 230);
+    padding: 20px;
+    border-radius: 10px;
+    width: 300px;
+}
+
+body {
+    /* background-color: rgb(83, 66, 209); */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+form {
+    margin-top: 30px;
+    margin-right: 15px;
+}
+
+label {
+    display: block;
+    margin-top: 10px;
+}
+
+
+input, select, button {
+    width: 100%;
+    padding: 5px;
+    margin-top: 5px;
+    border-radius: 5px;
+}
+
+button {
+    margin-top: 20px;
+    background-color: #008CBA;
+    color: white;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #005f73;
+}
+
+
+footer{
+    margin-top: 10px;
+}
+
+h1{
+    /* align-items: center; */
+    font-size: 30px;
+    /* align-content: center; */
+    justify-content: center;
+}
+
+img{
+    width: 100%;
+    /* justify-content: center; */
+    /* border-radius: 5px; */
+    /* margin-right: 20%; */
+    /* margin-left: 5px; */
+    /* margin-bottom: 5px; */
+    
+}
+
+.radio-inline {
+    display: flex;
+    /* margin-top: 5px; */
+    font-size: 15px;
+    
+}

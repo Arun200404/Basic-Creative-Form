@@ -1,3 +1,3 @@
 # Basic-Creative-Form
 <br>
-HTML and CSS Project
+Creating a basic data collection form using HTML and CSS.
